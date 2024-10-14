@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Music Player",
+    "imageSrc": "projects/music.png",
+    "description": "A modern music player app built with React, Redux, and Tailwind, featuring song discovery, artist details, and search via RapidAPI. It includes top charts, artist highlights, and a sleek user interface with responsive controls.",
+    "skills": ["React", "Redux", "Tailwind", "RapidAPI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "E Commerce Website",
+    "imageSrc": "projects/hitman.png",
+    "description": "A sleek eCommerce website built with React, Vite, and Tailwind, offering a seamless shopping experience with dynamic product listings and smooth navigation. It features responsive design, efficient cart management, and easy checkout integration.",
+    "skills": ["React", "Vite", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Community Developer",
+    "imageSrc": "projects/hitman.png",
+    "description": "A vibrant developer community platform built with React, Vite, and Tailwind, offering resources, discussions, and project collaboration. It fosters innovation and learning through real-time interactions and a seamless, responsive interface.",
+    "skills": ["React", "Vite", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Java Developer Intern",
+    "organisation": "TechnoHacks EduTech",
+    "startDate": "Jun 2023",
+    "endDate": "Jul 2023",
+    "experiences": ["Developed applications and implemented efficient coding practices."],
+    "imageSrc": "history/technohacks.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "TechnoHacks EduTech",
+    "startDate": "Apr 2023",
+    "endDate": "May 2023",
+    "experiences": ["Completed hands-on projects using HTML, CSS, and JavaScript."],
+    "imageSrc": "history/technohacks.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "CodeClause India",
+    "startDate": "Jun 2023",
+    "endDate": "Jul 2023",
+    "experiences": [
+      "Worked remotely on front-end projects focusing on HTML, CSS, and JavaScript."],
+    "imageSrc": "history/code.png"
+  }
+]
